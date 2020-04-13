@@ -12,4 +12,4 @@ To launch application You need to
 
 This should open Your browser and show 2 generated HTML files.
 
-Or You can just download jar file and only launch second command.
+Or You can just download target.zip file - unzip it and launch second command from inside unpacked directory.
